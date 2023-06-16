@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marriornot", "Marriornot.csproj", "{06B4D2E7-85AD-4464-A427-EB6BAA8317FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B4D2E7-85AD-4464-A427-EB6BAA8317FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B4D2E7-85AD-4464-A427-EB6BAA8317FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B4D2E7-85AD-4464-A427-EB6BAA8317FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B4D2E7-85AD-4464-A427-EB6BAA8317FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77F40B52-EDF1-4F85-8DDC-E6E32B208536}
+	EndGlobalSection
+EndGlobal
